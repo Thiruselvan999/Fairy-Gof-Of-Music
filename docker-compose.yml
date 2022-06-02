@@ -3,20 +3,20 @@ services:
    anon:
     build: .
     environment:
-      API_ID: $API_ID
-      API_HASH: $API_HASH
-      BOT_TOKEN: $BOT_TOKEN
-      OWNER_ID: $OWNER_ID
-      DURATION_LIMIT: 60
-      ASSISTANT_PREFIX:
-      SUPPORT_GROUP:
-      SUPPORT_CHANNEL:
-      MUSIC_BOT_NAME:
-      MONGO_DB_URI:
-      STRING_SESSION1:
+      API_ID: 11216468
+      API_HASH: 90227b8743b374e2d7a7c669251f207b
+      BOT_TOKEN: 5504046924:AAFCvs12ynnk9IopqJLZ9EdJdqik9_6oNiw
+      OWNER_ID: 5055370430
+      DURATION_LIMIT: 200
+      ASSISTANT_PREFIX: .
+      SUPPORT_GROUP: https://t.me/TamilChat_CRINGE_GUYS
+      SUPPORT_CHANNEL: https://t.me/PlayBoysDXD
+      MUSIC_BOT_NAME: FairyXProbot
+      MONGO_DB_URI: mongodb+srv://Aman:Aman@cluster0.gt2bc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+      STRING_SESSION1: BQAmef2CysNBkSH0DKdUgX08jGn0uZCR6SrZpGwUzws04P6JsrzxhHShBSE4VyBBRjV5kQ8xfmj0GP-umijOplNtneT3lcPRckX-sk7rIfpw7IYS7Kv5kztYQ8GZzog8Tc7wRTb-8bHUuRo2Vq24VRaEC3xnaWkjAyOLCPcf2Xgs7D97MhXtuuj_SohYQQCcFimr6CEiZfKqpZZWqhWwW_lfGcfR8x6_kN6l4nd4QAUYMbOK7zjs0rUM_-BOvb0xzt4X_3gPNdTeBpcV1ceci7zxgnFsVVXpCm60J4H3e44W-DDmA6rsp5IwEJurSJxFu09WMgpR2xQpMQ3Vs-GtYGMvAAAAAS1S1L4A
       STRING_SESSION2:
-      LOG_GROUP_ID:
-      SUDO_USERS:
-      LOG_SESSION:
-      UPSTREAM_BRANCH:
-      UPSTREAM_REPO:
+      LOG_GROUP_ID: -1001667824024
+      SUDO_USERS: 1989750989
+      LOG_SESSION: BQAmef2CysNBkSH0DKdUgX08jGn0uZCR6SrZpGwUzws04P6JsrzxhHShBSE4VyBBRjV5kQ8xfmj0GP-umijOplNtneT3lcPRckX-sk7rIfpw7IYS7Kv5kztYQ8GZzog8Tc7wRTb-8bHUuRo2Vq24VRaEC3xnaWkjAyOLCPcf2Xgs7D97MhXtuuj_SohYQQCcFimr6CEiZfKqpZZWqhWwW_lfGcfR8x6_kN6l4nd4QAUYMbOK7zjs0rUM_-BOvb0xzt4X_3gPNdTeBpcV1ceci7zxgnFsVVXpCm60J4H3e44W-DDmA6rsp5IwEJurSJxFu09WMgpR2xQpMQ3Vs-GtYGMvAAAAAS1S1L4A
+      UPSTREAM_BRANCH: master
+      UPSTREAM_REPO: https://github.com/Thiruselvan999/Fairy-Gof-Of-Music
