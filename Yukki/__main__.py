@@ -7,7 +7,7 @@ from Yukki.Core.Clients.cli import LOG_CLIENT
 from config import LOG_GROUP_ID
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-from pyrogram import idle
+from PyTgCalls import idle
 from rich.console import Console
 from rich.table import Table
 from youtubesearchpython import VideosSearch
@@ -18,6 +18,8 @@ from Yukki import (ASS_CLI_1, ASS_CLI_2, ASS_CLI_3, ASS_CLI_4, ASS_CLI_5,
                    ASSID1, ASSID2, ASSID3, ASSID4, ASSID5, ASSNAME1, ASSNAME2,
                    ASSNAME3, ASSNAME4, ASSNAME5, BOT_ID, BOT_NAME, LOG_CLIENT,
                    OWNER_ID, app)
+from Yukki.Core.PyTgCalls.Yukki import (pytgcalls1, pytgcalls2, pytgcalls3,
+                                        pytgcalls4, pytgcalls5)
 from Yukki.Core.Clients.cli import LOG_CLIENT
 from Yukki.Database import (get_active_chats, get_active_video_chats,
                             get_sudoers, is_on_off, remove_active_chat,
